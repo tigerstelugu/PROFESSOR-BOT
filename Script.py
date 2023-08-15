@@ -6,7 +6,7 @@ class script(object):
 ✯ Group : <a href=https://t.me/Telugu_tigers_Chat>𝐌𝐨𝐯𝐢𝐞𝐬 𝐆𝐫𝐨𝐮𝐩</a>
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/Telugu_tigers>𝐓𝐞𝐥𝐮𝐠𝐮 𝐓𝐢𝐠𝐞𝐫𝐬</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁E 👉 :<a href=https://t.me/Telugu_tigers>𝐓𝐞𝐥𝐮𝐠𝐮 𝐓𝐢𝐠𝐞𝐫𝐬</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/Telugu_tigers>𝐓𝐢𝐠𝐞𝐫𝐬 𝐓𝐞𝐚𝐦</a>
