@@ -3,7 +3,7 @@ class script(object):
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/Telugu_tigers>𝐓𝐞𝐥𝐮𝐠𝐮 𝐓𝐢𝐠𝐞𝐫𝐬</a>
-✯ Group : <a href=https://t.me/Telugu_tigers_Chat>𝐌𝐨𝐯𝐢𝐞𝐬 𝐆𝐫𝐨𝐮𝐩</a>
+✯ REQUEST GROUP : <a href=https://t.me/Telugu_tigers_Chat>𝐌𝐨𝐯𝐢𝐞𝐬 𝐆𝐫𝐨𝐮𝐩</a>
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁E 👉 :<a href=https://t.me/Telugu_tigers>𝐓𝐞𝐥𝐮𝐠𝐮 𝐓𝐢𝐠𝐞𝐫𝐬</a>
