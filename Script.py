@@ -9,8 +9,7 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁E 👉 :<a href=https://t.me/Telugu_tigers>𝐓𝐞𝐥𝐮𝐠𝐮 𝐓𝐢𝐠𝐞𝐫𝐬</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/Telugu_tigers>𝐓𝐢𝐠𝐞𝐫𝐬 𝐓𝐞𝐚𝐦</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/Telugu_tigers_Chat>𝐓𝐢𝐠𝐞𝐫𝐬 𝐀𝐝𝐦𝐢𝐧𝐬</a>"""
+- 𝙳𝚎𝚟elopers <a href=https://t.me/Telugu_tigers>𝐓𝐢𝐠𝐞𝐫𝐬 𝐓𝐞𝐚𝐦</a>
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
